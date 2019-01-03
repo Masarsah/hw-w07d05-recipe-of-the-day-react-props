@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background: #E6E8FF;
+    padding: 10px;
+}
+.header{
+    text-align: center;
+    background-color:  #7886D7;
+    height: 130px;
+    font-family: 'Lato', sans-serif;
+    }
+
+
+.recipeOfTheDay{
+    float: left;
+    width: 48%;
+    border: 3px solid #B2B7FF;
+    border-radius: 10px 10px 0px 0px;
+    background-color:#7886D7;
+    margin: 0;
+    padding: 0;
+}
+
+
+.recipes{
+    float: right;
+    width: 48%;
+    border: 3px solid #B2B7FF;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #7886D7;
+    margin: 0;
+    padding: 0;
+}
+.recipe{
+    background-color: #6574CD;
+    padding: 30px;
+    margin: 10px;
+}
+ul{
+    padding: 20px
+}
+
+li{
+    list-style-type: none;
+    padding: 4px;
+    font-size: 15px
+}
+.content{
+    background-color: #7886D7;
+}
+div{
+    padding: 5px;
+display: inherit
+}
+.subtit {
+padding-top: 20px;
+font-size: 20px;
+font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.cont{
+padding: 10px;
+
+
+}
+.Ingredient{
+    display: flex;
+    background: #B2B7FF;
+    border: 2px solid #5661B3;
+}
